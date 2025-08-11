@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit Nikumbh
+🎓 BSc IT Student | Networking | Active Directory | RHEL | Cybersecurity Enthusiast  
 
-<!--
-**SumitNikumbh/SumitNikumbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Skills
+- Networking: VLAN, OSPF, EIGRP, ACLs, Subnetting  
+- Active Directory: Domain Setup, GPOs, User Management (PowerShell)  
+- Red Hat Enterprise Linux: User Management, Services, SELinux, Firewalld  
 
-Here are some ideas to get you started:
+## 📂 Projects & Labs
+- [Networking Labs](https://github.com/yourusername/networking-lab)
+- [Active Directory Labs](https://github.com/yourusername/active-directory-lab)
+- [RHEL Labs](https://github.com/yourusername/rhel-lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- Email: your@email.com
