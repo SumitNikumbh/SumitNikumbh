@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Sumit Nikumbh
 🎓 BSc IT Student | Networking | Active Directory | RHEL | Cybersecurity Enthusiast  
 
-## 💻 Skills
+## 💻 Skills 
 - Networking: VLAN, OSPF, EIGRP, ACLs, Subnetting  
 - Active Directory: Domain Setup, GPOs, User Management (PowerShell)  
 - Red Hat Enterprise Linux: User Management, Services, SELinux, Firewalld  
