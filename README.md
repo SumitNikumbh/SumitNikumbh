@@ -1,3 +1,4 @@
+![200h](https://github.com/user-attachments/assets/eb633e46-6121-4b01-a43e-c90d82bcdbb6)
 # 👋 Hi, I'm Sumit Nikumbh
 🎓 BSc IT Student | Networking | Active Directory | RHEL | Cybersecurity Enthusiast  
 
